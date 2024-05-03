@@ -1,4 +1,4 @@
-Super Mario Bros - Nivel 1
+AOVE Hunters - Nivel 1
 =============
 
 Juego creado en Python usando Pygame con la intención de recrear el primer nivel de Super Mario Bros.
