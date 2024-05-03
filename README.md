@@ -3,7 +3,8 @@ AOVE Hunters - Nivel 1
 
 Juego creado en Python usando Pygame con la intención de recrear el primer nivel de Super Mario Bros.
 
-![screenshot](https://raw.github.com/justinmeister/Mario-Level-1/master/screenshot.png)
+![screenshot](https://raw![PORTADA-JUEGO](https://github.com/BigggieK/AOVE-Hunters/assets/168536507/443437f9-7567-4238-8169-4bcb9351bc44)
+.github.com/justinmeister/Mario-Level-1/master/screenshot.png)
 
 Controles:
 
